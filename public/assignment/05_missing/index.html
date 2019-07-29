@@ -24,7 +24,7 @@
     <meta property="og:image" content="/images/dmgt_meta.png">
     <meta property="og:description" content="Plain text social science" />
 
-    <meta name="generator" content="Hugo 0.54.0" />    
+    <meta name="generator" content="Hugo 0.56.1" />    
 
     <title>Missing Data | : Estadística Multivariada</title>
     <link rel="canonical" href="/assignment/05_missing/">
@@ -204,30 +204,36 @@ code span.wa { color: #bf0303; } /* Warning */
 <pre class="sourceCode r"><code class="sourceCode r">knitr<span class="op">::</span>opts_chunk<span class="op">$</span><span class="kw">set</span>(<span class="dt">echo =</span> <span class="ot">TRUE</span>)
 
 <span class="kw">library</span>(tidyverse)</code></pre>
-<pre><code>## ── Attaching packages ────────────────────────────────── tidyverse 1.2.1 ──</code></pre>
-<pre><code>## ✔ ggplot2 3.1.0           ✔ purrr   0.2.5      
-## ✔ tibble  2.0.99.9000     ✔ dplyr   0.8.0.9000 
-## ✔ tidyr   0.8.2           ✔ stringr 1.3.1      
-## ✔ readr   1.3.1           ✔ forcats 0.3.0</code></pre>
-<pre><code>## ── Conflicts ───────────────────────────────────── tidyverse_conflicts() ──
-## ✖ dplyr::filter()  masks stats::filter()
-## ✖ purrr::is_null() masks testthat::is_null()
-## ✖ dplyr::lag()     masks stats::lag()
-## ✖ dplyr::matches() masks testthat::matches()</code></pre>
-<pre class="sourceCode r"><code class="sourceCode r"><span class="kw">library</span>(janitor)
-<span class="kw">library</span>(lubridate)</code></pre>
+<pre><code>## Registered S3 methods overwritten by &#39;ggplot2&#39;:
+##   method         from 
+##   [.quosures     rlang
+##   c.quosures     rlang
+##   print.quosures rlang</code></pre>
+<pre><code>## Registered S3 method overwritten by &#39;rvest&#39;:
+##   method            from
+##   read_xml.response xml2</code></pre>
+<pre><code>## ── Attaching packages ─────────────────────────────────────────────────────────── tidyverse 1.2.1 ──</code></pre>
+<pre><code>## ✔ ggplot2 3.1.1     ✔ purrr   0.3.2
+## ✔ tibble  2.1.2     ✔ dplyr   0.8.1
+## ✔ tidyr   0.8.3     ✔ stringr 1.4.0
+## ✔ readr   1.3.1     ✔ forcats 0.4.0</code></pre>
+<pre><code>## ── Conflicts ────────────────────────────────────────────────────────────── tidyverse_conflicts() ──
+## ✖ dplyr::filter() masks stats::filter()
+## ✖ dplyr::lag()    masks stats::lag()</code></pre>
+<pre class="sourceCode r"><code class="sourceCode r"><span class="kw">library</span>(janitor)</code></pre>
+<pre><code>## 
+## Attaching package: &#39;janitor&#39;</code></pre>
+<pre><code>## The following objects are masked from &#39;package:stats&#39;:
+## 
+##     chisq.test, fisher.test</code></pre>
+<pre class="sourceCode r"><code class="sourceCode r"><span class="kw">library</span>(lubridate)</code></pre>
 <pre><code>## 
 ## Attaching package: &#39;lubridate&#39;</code></pre>
 <pre><code>## The following object is masked from &#39;package:base&#39;:
 ## 
 ##     date</code></pre>
-<pre class="sourceCode r"><code class="sourceCode r"><span class="kw">library</span>(socviz)</code></pre>
-<pre><code>## 
-## Attaching package: &#39;socviz&#39;</code></pre>
-<pre><code>## The following object is masked from &#39;package:kjhutils&#39;:
-## 
-##     %nin%</code></pre>
-<pre class="sourceCode r"><code class="sourceCode r"><span class="kw">library</span>(naniar)
+<pre class="sourceCode r"><code class="sourceCode r"><span class="kw">library</span>(socviz)
+<span class="kw">library</span>(naniar)
 <span class="kw">library</span>(visdat)</code></pre>
 <pre class="sourceCode r"><code class="sourceCode r">organdata</code></pre>
 <pre><code>## # A tibble: 238 x 21

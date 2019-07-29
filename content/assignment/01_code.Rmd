@@ -124,24 +124,5 @@ calc_age <- function(birth_date, ref_date = Sys.Date(), unit = "year") {
 
 ## Load it
 
-```{r load2}
 
-filenames <- dir(path = "data/clean",
-                 pattern = "*.csv",
-                 full.names = TRUE)
-
-filenames
-
-specs <- spec_csv(filenames[1])
-
-specs
-
-data <- filenames %>%
-    map_dfr(read_csv, .id = "congress", col_types = specs)
-
-data <- clean_names(data)
-
-data
-
-```
 
