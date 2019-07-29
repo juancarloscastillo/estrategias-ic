@@ -117,6 +117,24 @@ Links  The R Project for Statistical Computing R Studio Happy Git with R  Readin
     </item>
     
     <item>
+      <title>Reference</title>
+      <link>/reference/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/reference/</guid>
+      <description>Markdown  The Plain Person’s Guide to Plain Text Social Science: Why you should write data-based reports using plain-text tools. Markdown tutorial: An interactive tutorial to practice using Markdown. Markdown cheatsheet: Useful one-page reminder of Markdown syntax.  Helpers and Templates  RMarkdown Cheatsheet An overview of Markdown and RMarkdown conventions. RStudio Cheatsheets Other quick guides, including a more comprehensive RMarkdown reference and a information about using RStudio&amp;rsquo;s IDE, and some of the main tools in R.</description>
+    </item>
+    
+    <item>
+      <title>Reference</title>
+      <link>/reference/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/reference/</guid>
+      <description>Markdown  The Plain Person’s Guide to Plain Text Social Science: Why you should write data-based reports using plain-text tools. Markdown tutorial: An interactive tutorial to practice using Markdown. Markdown cheatsheet: Useful one-page reminder of Markdown syntax.  Helpers and Templates  RMarkdown Cheatsheet An overview of Markdown and RMarkdown conventions. RStudio Cheatsheets Other quick guides, including a more comprehensive RMarkdown reference and a information about using RStudio&amp;rsquo;s IDE, and some of the main tools in R.</description>
+    </item>
+    
+    <item>
       <title>Sample Code: R</title>
       <link>/assignment/01_code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
