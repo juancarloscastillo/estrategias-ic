@@ -1,6 +1,6 @@
 baseURL: "/"
 languageCode: en-us
-title: Estadística Multivariada
+title: Estrategias de investigación cuantitativa
 theme: "jcc-tufte-hugo"
 googleAnalytics: ""
 ignoreFiles:
@@ -16,16 +16,16 @@ permalinks:
 buildFuture: true
 menu:
   main:
-    - name: Syllabus
+    - name: Programa
       url: /syllabus/
       weight: 1
-    - name: Assignments
+    - name: Evaluaciones
       url: /assignments/
       weight: 3
-    - name: Schedule
+    - name: Sesiones
       url: /schedule/
       weight: 2
-    - name: Reference
+    - name: Referencias
       url: /reference/
       weight: 4
 # Disable taxonomies

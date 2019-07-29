@@ -14,4 +14,4 @@ LaTeX: XeLaTeX
 
 AutoAppendNewline: Yes
 
-BuildType: Makefile
+BuildType: Website
