@@ -107,7 +107,7 @@
 <div class="wrap">
     <header>
         <nav class="group logo-wrap">
-            <a href="/" class="logo"><img src="/images/dmgt_hires.png" alt="Data Management"></a>
+            <a href="/" class="logo"><img src="/images/hex_eic.png" alt="Data Management"></a>
             <h1 class="websitetitle"><a href="/">: Estrategias de investigación cuantitativa</a></h1>
         </nav>
         <nav class="bottom-group">
@@ -196,34 +196,67 @@ code span.wa { color: #bf0303; } /* Warning */
 </style>
 
 
-<h2 id="course-objectives">Course objectives</h2>
-<p>The goal of this mini-seminar is to introduce some of the core tools, skills, and strategies that are useful to graduate students (and others) in the social sciences while working with quantitative data. It exists because of frustrations students have had in the past when (a) getting up and running with some of the applications used across seminars in the department, and (b) learning about helpful tools that they discover, too late, could have saved them a lot of time, effort, and error had they known about them earlier on.</p>
-<p>This introduction is opinionated but not dogmatic. I will emphasize a collection of mostly free, generally cross-platform tools oriented to writing about and working with data programatically, reproducibly, and in plain text formats. This is only one approach. Others can be equally effective when it comes to managing your own work. The tools we will describe are very widely used in academia and in the wider word of data analysis and “data science”. They are pretty robust and generally have good, helpful user communities associated with them.</p>
-<h2 id="orientation">Orientation</h2>
-<p>I’ll be starting from the overview in <span class="citation">Kieran Healy, <em>The Plain Person’s Guide to Plain-Text Social Science</em> (Online, 2018), <a href="https://plain-text.co" role="doc-biblioref">https://plain-text.co</a>.</span> However, I am not going to encourage you to learn Emacs.</p>
-<h2 id="topics">Topics</h2>
-<p>Here’s a (likely aspirational) list of topics we might cover, divided into two groups: stuff that happens outside of R (our main data analysis tool), and stuff that happens inside of R:</p>
-<h3 id="outside-of-r">Outside of R</h3>
+<h2 id="propositos-del-curso">Propósitos del curso</h2>
+<p>Al finalizar el curso los/as estudiantes conocerán distintas estrategias de investigación cuantitativa partir de las cuales serán capaces de identificar y construir problemas y objetos de investigación factibles de ser abordados a través de cuestionarios.</p>
+<p>Se espera que los estudiantes conozcan, a partir de la revisión de ejemplos actuales y de reconocida calidad científica, distintas experiencias de investigación cuantitativa; conozcan, diseñen y validen cuestionarios y escalas en el marco de la investigación social; conozcan, construyan y validen índices de medición de diferentes constructos sociales; apliquen los conocimientos adquiridos en los cursos de estadística descriptiva e inferencial; articulen y fundamenten las decisiones adoptadas para abordar y analizar un problema de investigación a través de técnicas cuantitativas; integren en la definición de problemas y de decisiones metodológicas fundamentos teóricos de carácter sociológico.</p>
+<p>Complementariamente, se espera que los estudiantes adquieran herramientas que les permitan comunicar diseños y resultados de investigación en contextos sociales, profesionales y académicos.</p>
+<h2 id="orientacion">Orientación</h2>
+<p>El presente curso se propone desarrollar en las y los estudiantes las habilidades necesarias para:</p>
+<ol style="list-style-type: decimal">
+<li><p>Reconocer, comprender y explicar las potencialidades y limitaciones de la investigación social cuantitativa.</p></li>
+<li><p>Operacionalizar conceptos simples y complejos, definiendo y delimitando dimensiones, subdimensiones e indicadores observables para la medición de variables en ciencias sociales.</p></li>
+<li><p>Seleccionar, evaluar, y construir instrumentos de medición cuantitativa (cuestionarios, índices y escalas) posibles de utilizar en investigación por encuestas.</p></li>
+<li><p>Comunicar de manera eficiente y abierta la estrategia de investigación como así sus resultados en diferentes instancias (artículos y presentaciones), y para audiencias tanto académicas y como no académicas.</p></li>
+</ol>
+<h2 id="contenidos">Contenidos</h2>
+<h3 id="primera-unidad.-caracteristicas-potencialidades-y-limitaciones-de-la-investigacion-cuantitativa">Primera unidad. Características, potencialidades y limitaciones de la investigación cuantitativa</h3>
+<ol style="list-style-type: lower-alpha">
+<li>Limitaciones y potencialidades de la investigación cuantitativa.</li>
+<li>La formulación de una investigación cuantitativa.</li>
+<li>El diseño en la investigación cuantitativa: problema, objetivos, hipótesis y relevancias.</li>
+<li>Instrumentos y tipos de investigaciones cuantitativas.</li>
+<li>Etica de la investigación social</li>
+<li>Ciencia abierta</li>
+</ol>
+<h3 id="segunda-unidad.-el-proceso-de-medicion-y-operacionalizacion">Segunda unidad. El proceso de medición y operacionalización</h3>
+<ol style="list-style-type: lower-alpha">
+<li>Usos, limitaciones y potencialidades de la medición en ciencias sociales y sociología.</li>
+<li>Proceso y concepto de medición. Tipos y niveles de medición.</li>
+<li>Definición conceptual, real y operacional.</li>
+<li>Diseño de indicadores.</li>
+<li>Confiabilidad y validez</li>
+</ol>
+<h3 id="tercera-unidad.-encuestas-implementacion-y-reporte.">Tercera unidad. Encuestas: implementación y reporte.</h3>
+<ol style="list-style-type: lower-alpha">
+<li>La investigación por encuestas e investigación con cuestionarios: usos, potencialidades y limitaciones.</li>
+<li>Diseño de encuestas y formas de aplicación</li>
+<li>Proceso de documentación de estudios sociales</li>
+<li>Reporte de resultados.</li>
+</ol>
+<h2 id="metodologia">Metodología</h2>
+<p>Clases teóricas expositivas desarrolladas por el profesor del curso.
+Talleres prácticos grupales (dentro y fuera de la sala de clases) de aplicación de contenidos del curso a situaciones de investigación ficticia o simulada, similares a las que se encuentran en investigación cuantitativa en sociología.
+Lecturas y estudio individual semanal de parte de las y los estudiantes. Recuerde que este curso contempla un total de 6 horas de trabajo individual semanal adicional a las horas de clases, el cual debe ser usado para el estudio individual, lectura de la bibliografía obligatoria y desarrollo de tareas.
+Sesiones de ayudantía en pequeños grupos que estarán a cargo de un ayudante de cátedra y tendrán por objetivo aclarar dudas de parte de los estudiantes sobre los contenidos de cátedra o tener apoyo de reforzamiento de los contenidos de ésta. Las ayudantías no tienen un horario ni frecuencia predefinida, sino que serán realizadas conforme los estudiantes lo requieran en horarios definidos de común acuerdo con el ayudante a cargo del grupo.</p>
+<h2 id="evaluacion">Evaluación</h2>
+<p>La evaluación de los aprendizajes del curso será evaluada a través de:</p>
 <ul>
-<li>Why don’t I have secure, incremental, automatic, off-site backups?</li>
-<li>How does my computer work, like, in general?</li>
-<li>What is the shell? Why do I need it?</li>
-<li>Why should I use plain-text tools?</li>
-<li>What are some handy Unix-y things I can do, specficially?</li>
-<li>How do I use Git and GitHub?</li>
-<li>How do I organize paper- or chapter-sized projects?</li>
-<li>What if my advisor wants to read papers in Microsoft Word?</li>
-</ul>
-<h3 id="inside-of-r">Inside of R</h3>
+<li>Unidad 1: prueba escrita (20%)</li>
+<li>Unidad 2:
 <ul>
-<li>How do I get my data into R?</li>
-<li>What’s good name hygiene and code style?</li>
-<li>How should I deal with factors and categorical variables and the like?</li>
-<li>How do I clean data in R? What are some things to watch out for?</li>
-<li>How do I manage missing data in R?</li>
-<li>How do I reshape data?</li>
-<li>How do I manipulate, summarize, and extend my data?</li>
+<li>informe evaluación de reporte/artículo de investigación (10)</li>
+<li>reporte diseño de instrumento de medición (30%)<br />
+</li>
+</ul></li>
+<li>Unidad 3:
+<ul>
+<li>reporte evaluación de pares (10%)</li>
+<li>informe final trabajo (30%)</li>
+</ul></li>
 </ul>
+<p>El atraso o la inasistencia asociada a la entrega de evaluaciones debe ser justificada a la secretaría de la carrera (no se aceptan justificaciones directas). Quienes cuenten con justificación por haber faltado a alguna evaluación, tendrán la oportunidad de dar una evaluación en un nuevo plazo. De no cumplir este requisito para el caso de las entregas, se descontará 1 punto por día de atraso, con un máximo de dos días; de otra manera se asignará la nota mínima.</p>
+<p>La sumatoria ponderada de los resultados de sus evaluaciones será su nota de presentación a examen. Podrán eximirse del examen todas aquellas personas que tengan un promedio ponderado igual o superior a 5.5 (en escala de 1.0 a 7.0). Podrán presentarse a examen de primera oportunidad todas aquellas personas que tengan un promedio ponderado igual o superior a 3.5 (en escala de 1.0 a 7.0). En caso de tener un promedio inferior a 3.5 (en escala de 1.0 a 7.0) deberá presentarse a examen de segunda oportunidad. En caso de que deba presentarse a examen, su promedio ponderado de notas del semestre equivaldrá al 60% de su nota de presentación y el examen al 40% restante. El examen será oral.</p>
+<p>El examen de segunda oportunidad (solo para quienes no hubiesen aprobado el curso en instancias previas) será una prueba escrita donde se medirán todos los contenidos del curso.</p>
 <h2 id="software">Software</h2>
 <p>The main tools we will be working with are R, <a href="rstudio.com">R Studio</a>, <a href="https://git-scm.com/">git</a>, and <a href="https://git-scm.com/">GitHub</a>. There are other things, too, such as the shell (or console, or command line, or Terminal), some handy Unix utilities, text editors, and assorted miscellaneous applications. But to begin with, make sure you have R, R Studio, and git installed, along with access to GitHub.</p>
 <p>Here is what to do to get R an R Studio:</p>
@@ -244,8 +277,13 @@ code span.wa { color: #bf0303; } /* Warning */
 <span class="kw">install.packages</span>(my_packages, <span class="dt">repos =</span> <span class="st">&quot;http://cran.rstudio.com&quot;</span>)</code></pre>
 <p>R Studio should then download and install these packages for you. It may take a little while to download everything.</p>
 <p>To get git and GitHub up and running, consult Jenny Bryan et al’s extremely useful <a href="https://happygitwithr.com">Happy Git with R</a> and follow the instructions there.</p>
-<h2 id="notes-and-queries">Notes and Queries</h2>
-<p>If I use slides in class I’ll post them for that week on the <a href="/schedule/">schedule</a> along with any code we make use of or other material we refer to.</p>
+<h2 id="varios">Varios</h2>
+<p>Las clases en general se acompañan de documentos de presentación, que estarán disponibles antes de la sesión en la página <a href="/schedule/">sesiones</a>, y están desarrollados con base en Rmarkdown/Xaringan<span><label for="sn-4" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-4" class="margin-toggle"/><span class="sidenote"><a href="https://github.com/yihui/xaringan"><code>Rmarkdown/ Xaringan</code></a><br />
+<br />
+</span></span> . Estos documentos no son:</p>
+<p>-. “la clase”</p>
+<p>-. autoexplicativos (ni aspiran a serlo)</p>
+<p>-. “el ppt” (ni mucho menos “la ppt”)</p>
 
 
     </article>
@@ -269,7 +307,7 @@ code span.wa { color: #bf0303; } /* Warning */
             </li>
 
             <li>
-            <a href="mailto:juancastillo@uchile.cl"><i class="fas fa-envelope"></i> juancastillo@uchile.cl</a>
+            <a href="mailto:juancastillov@uchile.cl"><i class="fas fa-envelope"></i> juancastillov@uchile.cl</a>
             </li>
 
             <li>
