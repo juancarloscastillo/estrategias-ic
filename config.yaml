@@ -42,16 +42,16 @@ params:
     url: "https://jc-castillo.com"
     twitter: juankcastillo
     github: juancarloscastillo
-    office: "FACSO 325"
+    office: "Of.325 - Edificio Nuevo FACSO"
   course:
     number:
-    semester: 1ero 2019
-    days: "Lunes"
+    semester: 2do SEM 2019
+    days: "Jueves"
     time: "10:15AM-13:15PM"
-    location: "FACSO Aulario poniente 7"
+    location: "Sala por definir"
     twitter: juankcastillo
-    dates: "Marzo-Julio, 2019"
-    github: "juancarloscastillo/datamanagement"
+    dates: "Agosto-Diciembre, 2019"
+    github: "juancarloscastillo/estrategias-ic"
     copyrightYear: "2019"
     contactDetails: >-
       Horas de oficina: Con cita previa.
@@ -69,5 +69,5 @@ params:
     url: /images/dmgt_hires.png
     alt: Data Management
   meta:
-    twitterSite: "@kjhealy"
-    twitterCreator: "@kjhealy"
+    twitterSite: "@juankcastillo"
+    twitterCreator: "@juankcastillo"
