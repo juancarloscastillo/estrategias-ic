@@ -180,19 +180,19 @@ body {
     width: 85%;
     margin: 0 auto 0 0;
     border-spacing: 0px;
-    border-top: 2px solid #181896;
+    border-top: 0px solid #181896;
     border-bottom: 0px solid #333; }
   .wrap .booktabs th, .wrap th {
     border-bottom: 1px solid #333;
     padding: 0.65ex 0.5em 0.4ex 0em;
     font-weight: normal;
-    text-align: center; }
+    text-align: left; }
   .wrap th, .wrap td {
     font-size: 1rem;
     line-height: 1.71428571;
     vertical-align: top !important; }
   .wrap .booktabs th.cmid, .wrap th {
-    border-bottom: 1px solid #333; }
+    border-bottom: 2px solid #b60d0d; }
   .wrap tr.cmid td {
     border-top: 1px solid #333; }
   .wrap .booktabs th.nocmid {

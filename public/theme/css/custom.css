@@ -62,7 +62,7 @@ input[type='checkbox'] {
 }
 
 .toggle:checked + .lbl-toggle + .collapsible-content {
-  max-height: 500px;
+  max-height: 630px;
   margin-bottom: 10px;
   padding-bottom: 10px;
 }
@@ -74,10 +74,15 @@ input[type='checkbox'] {
 
 .collapsible-content .content-inner {
   background: #e1ebed;
+  color: #241a92;
   border-bottom: 1px solid rgba(250, 224, 66, .45);
   border-bottom-left-radius: 7px;
   border-bottom-right-radius: 3px;
   padding: 1rem 3rem;
+}
+
+.collapsible-content .content-inner:visited  {
+  color: #099813;
 }
 
 # Frome here on the original from healey

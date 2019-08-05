@@ -2,8 +2,9 @@
 title: Programa
 slug: syllabus
 citeproc: false
-bibliography: ../static/bib/references.bib
-csl: ../static/bib/chicago-syllabus-no-bib.csl
+bibliography: ../static/bib/estrategias_invcuanti.bib
+csl: ../static/bib/apa.csl
+nocite: '@*'
 ---
 
 ```{r load-libraries, message=FALSE, warning=FALSE, include=FALSE}
@@ -97,3 +98,6 @@ Las clases en general se acompañan de documentos de presentación, que estarán
 -. autoexplicativos (ni aspiran a serlo)
 
 -. "el ppt" (ni mucho menos "la ppt")
+
+
+# Bibliografía

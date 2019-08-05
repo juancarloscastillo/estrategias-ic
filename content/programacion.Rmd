@@ -5,6 +5,13 @@ slug: programacion
 
 <div style="width:130%">
 
+<i class="fas fa-chalkboard-teacher"></i> Documentos de presentación
+
+<i class="fas fa-book-reader"></i> Lecturas
+
+<i class="fas fa-user-edit"></i> Evaluaciones, talleres y otros
+
+<br>
 
 <div class="wrap-collabsible">
 <input id="collapsible1" class="toggle" type="checkbox"><label for="collapsible1" class="lbl-toggle">
@@ -14,12 +21,11 @@ Unidad 1: Características de la investigación cuantitativa
 <div class="content-inner">
 <div style="width:180%">
 
-| | | | | |
+| | | <i class="fas fa-chalkboard-teacher"></i> |<i class="fas fa-book-reader"></i> | <i class="fas fa-user-edit"></i> |
 |----- | -- |-----------------|-------------------------- |-------------|
-|        |    | <i class="fas fa-chalkboard-teacher"></i> | <i class="fas fa-book-reader"></i>| <i class="fas fa-paperclip"></i> |
-| Agosto | 8  | [**Introducción**](../docpres/01_intro/01_intro.html) | [Hernández et al. Cap 3: Planteamiento cuantitativo del problema](../readings/cap3Hernandezetal2014.pdf)  | |
-|        | 22 | [Formulación de una investigación cuantitativa I]() |    [Hernández et al. Cap 5: Definición del alcance de la inv.](../readings/cap5Hernandezetal2014.pdf)  | |
-|        | 29 | [Formulación de una investigación cuantitativa II]() |    [Hernández et al. Cap 5: Planteamiento cuantitativo del problema](../readings/cap5Hernandezetal2014.pdf)  | Taller: Zotero |
+| Agosto | 8  | [**Introducción**](../docpres/01_intro/01_intro.html)   | [Hernández et al. Cap 3: Planteamiento cuantitativo del problema](../readings/cap3Hernandezetal2014.pdf)  | |
+|        | 22 | [Formulación de una investigación cuantitativa I]()     |    [Hernández et al. Cap 5: Definición del alcance de la inv.](../readings/cap5Hernandezetal2014.pdf)  | |
+|        | 29 | [Formulación de una investigación cuantitativa II]()    |    [Hernández et al. Cap 7: Planteamiento cuantitativo del problema](../readings/cap7Hernandezetal2014.pdf)  | Taller: Zotero |
 | Septiembre  | 5  |   |   | Evaluación 1: Prueba unidad 1 (20%)   |
 
 </div>
@@ -36,9 +42,8 @@ Unidad 2: Medición y operacionalización
 <div class="content-inner">
 <div style="width:180%">
 
-| | | | | |
+| | | <i class="fas fa-chalkboard-teacher"></i> |<i class="fas fa-book-reader"></i> | <i class="fas fa-user-edit"></i> |
 |----- | -- |-----------------|-------------------------- |-------------|
-|        |    | <i class="fas fa-chalkboard-teacher"></i> | <i class="fas fa-book-reader"></i>| <i class="fas fa-paperclip"></i> |
 | Septiembre | 12  | [Operacionalización, confiablidad y validez]() | [Babbie cap 6 Operacionalización]() | |
 |   |   |   | [Latiesa Validez y confiabilidad]() |   |
 |            | 26 | [Diseño de cuestionarios y preguntas I]() | [Clark-Carter et al Cap 6: Medición de actitudes y significados]()  | |
@@ -61,9 +66,8 @@ Unidad 3: Implementación y reporte
 <div class="content-inner">
 <div style="width:180%">
 
-| | | | | |
+| | | <i class="fas fa-chalkboard-teacher"></i> |<i class="fas fa-book-reader"></i> | <i class="fas fa-user-edit"></i> |
 |----- | -- |-----------------|-------------------------- |-------------|
-|        |    | <i class="fas fa-chalkboard-teacher"></i> | <i class="fas fa-book-reader"></i>| <i class="fas fa-paperclip"></i> |
 | Noviembre | 7  | [Inverstigación por encuestas sociales]() | [Corbetta cap 5 La encuesta por muestreo]() | |
 |   |   |   | [Clark-Carter et al Cap 5: Entrevistas y encuestas]() |   |
 |           | 14 | [Reporte y comunicación de resultados I]() | [Clark-Carter et al Cap 6: Medición de actitudes y significados]()  | |

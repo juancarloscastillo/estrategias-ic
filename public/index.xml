@@ -6,9 +6,69 @@
     <description>Recent content on Estrategias de investigación cuantitativa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>/reading/02-reading/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/reading/02-reading/</guid>
+      <description> Required </description>
+    </item>
+    
+    <item>
+      <title>Assignments</title>
+      <link>/assignments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/assignments/</guid>
+      <description>(Aquí mayor detalle de las evaluaciones)</description>
+    </item>
+    
+    <item>
+      <title>Programa</title>
+      <link>/syllabus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/syllabus/</guid>
+      <description>Propósitos del curso Al finalizar el curso los/as estudiantes conocerán distintas estrategias de investigación cuantitativa partir de las cuales serán capaces de identificar y construir problemas y objetos de investigación factibles de ser abordados a través de cuestionarios.
+Se espera que los estudiantes conozcan, a partir de la revisión de ejemplos actuales y de reconocida calidad científica, distintas experiencias de investigación cuantitativa; conozcan, diseñen y validen cuestionarios y escalas en el marco de la investigación social; conozcan, construyan y validen índices de medición de diferentes constructos sociales; apliquen los conocimientos adquiridos en los cursos de estadística descriptiva e inferencial; articulen y fundamenten las decisiones adoptadas para abordar y analizar un problema de investigación a través de técnicas cuantitativas; integren en la definición de problemas y de decisiones metodológicas fundamentos teóricos de carácter sociológico.</description>
+    </item>
+    
+    <item>
+      <title>Programación sesiones</title>
+      <link>/programacion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/programacion/</guid>
+      <description>Documentos de presentación
+ Lecturas
+ Evaluaciones, talleres y otros
+
+Unidad 1: Características de la investigación cuantitativa              Agosto 8 Introducción Hernández et al. Cap 3: Planteamiento cuantitativo del problema    22 Formulación de una investigación cuantitativa I Hernández et al. Cap 5: Definición del alcance de la inv.    29 Formulación de una investigación cuantitativa II Hernández et al.</description>
+    </item>
+    
+    <item>
+      <title>Programación sesiones</title>
+      <link>/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/</guid>
+      <description>   Readings  Code  Class materials    Agosto 8 Introducción      January 17th Models of work      January 24th Getting data in to R      January 31st Coding and recoding      February 7th Missing data      February 14th       February 21st More on dplyr       </description>
+    </item>
+    
+    <item>
+      <title>Reference</title>
+      <link>/reference/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/reference/</guid>
+      <description>Contents  Markdown Helpers and Templates Guides Tools Paid Applications and Services   Markdown  The Plain Person’s Guide to Plain Text Social Science: Why you should write data-based reports using plain-text tools. Markdown tutorial: An interactive tutorial to practice using Markdown. Markdown cheatsheet: Useful one-page reminder of Markdown syntax.  Helpers and Templates  RMarkdown Cheatsheet An overview of Markdown and RMarkdown conventions. RStudio Cheatsheets Other quick guides, including a more comprehensive RMarkdown reference and a information about using RStudio’s IDE, and some of the main tools in R.</description>
+    </item>
     
   </channel>
 </rss>
