@@ -180,8 +180,8 @@ body {
     width: 85%;
     margin: 0 auto 0 0;
     border-spacing: 0px;
-    border-top: 2px solid #333;
-    border-bottom: 2px solid #333; }
+    border-top: 2px solid #181896;
+    border-bottom: 0px solid #333; }
   .wrap .booktabs th, .wrap th {
     border-bottom: 1px solid #333;
     padding: 0.65ex 0.5em 0.4ex 0em;
@@ -721,10 +721,10 @@ hr.slender {
 /* TAGS */
 .wrap {
   /*.tag::after { border-bottom:13px solid transparent;
-    border-left:0.6667rem solid $contrast-color; 
+    border-left:0.6667rem solid $contrast-color;
     border-top:0.8667rem solid transparent;
     right:0;
-    top:0 
+    top:0
   } */ }
   .wrap .tags {
     list-style: none;

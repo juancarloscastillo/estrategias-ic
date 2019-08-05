@@ -3,4 +3,4 @@ title: "Assignments"
 slug: assignments
 ---
 
-I'm not sure if we'll have any assignments yet. We'll see how it goes.
+(Aquí mayor detalle de las evaluaciones)

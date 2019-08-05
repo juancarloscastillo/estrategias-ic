@@ -23,7 +23,7 @@ menu:
       url: /assignments/
       weight: 3
     - name: Sesiones
-      url: /schedule/
+      url: /programacion/
       weight: 2
     - name: Referencias
       url: /reference/

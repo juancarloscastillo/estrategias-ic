@@ -1,0 +1,77 @@
+---
+title: "Programación sesiones"
+slug: programacion
+---
+
+<div style="width:130%">
+
+
+<div class="wrap-collabsible">
+<input id="collapsible1" class="toggle" type="checkbox"><label for="collapsible1" class="lbl-toggle">
+Unidad 1: Características de la investigación cuantitativa
+</label>
+<div class="collapsible-content">
+<div class="content-inner">
+<div style="width:180%">
+
+| | | | | |
+|----- | -- |-----------------|-------------------------- |-------------|
+|        |    | <i class="fas fa-chalkboard-teacher"></i> | <i class="fas fa-book-reader"></i>| <i class="fas fa-paperclip"></i> |
+| Agosto | 8  | [**Introducción**](../docpres/01_intro/01_intro.html) | [Hernández et al. Cap 3: Planteamiento cuantitativo del problema](../readings/cap3Hernandezetal2014.pdf)  | |
+|        | 22 | [Formulación de una investigación cuantitativa I]() |    [Hernández et al. Cap 5: Definición del alcance de la inv.](../readings/cap5Hernandezetal2014.pdf)  | |
+|        | 29 | [Formulación de una investigación cuantitativa II]() |    [Hernández et al. Cap 5: Planteamiento cuantitativo del problema](../readings/cap5Hernandezetal2014.pdf)  | Taller: Zotero |
+| Septiembre  | 5  |   |   | Evaluación 1: Prueba unidad 1 (20%)   |
+
+</div>
+</div>
+</div>
+
+<br>
+
+<div class="wrap-collabsible">
+<input id="collapsible2" class="toggle" type="checkbox"><label for="collapsible2" class="lbl-toggle">
+Unidad 2: Medición y operacionalización
+</label>
+<div class="collapsible-content">
+<div class="content-inner">
+<div style="width:180%">
+
+| | | | | |
+|----- | -- |-----------------|-------------------------- |-------------|
+|        |    | <i class="fas fa-chalkboard-teacher"></i> | <i class="fas fa-book-reader"></i>| <i class="fas fa-paperclip"></i> |
+| Septiembre | 12  | [Operacionalización, confiablidad y validez]() | [Babbie cap 6 Operacionalización]() | |
+|   |   |   | [Latiesa Validez y confiabilidad]() |   |
+|            | 26 | [Diseño de cuestionarios y preguntas I]() | [Clark-Carter et al Cap 6: Medición de actitudes y significados]()  | |
+| Octubre    | 3  | [Diseño de cuestionarios y preguntas II]()  | [Asún, R. (2006). Construcción de cuestionarios y escalas]()  | Panel con invitad_s  |
+|            | 10 | [Diseño de cuestionarios y preguntas III]()  | [Corbetta cap 6 la técnica de las escalas]()  | Evaluación 2: Informe análisis de artículo de investigación (10%)  |
+|            | 17 | [Construcción de indicadores (1)]()  | [Babbie cap 7 Indices y escalas]()  | Taller: Diseño de cuestionarios en formato web  |
+|            | 24 | [Construcción de indicadores (2)]() |  | Evaluación 3 (30%): Diseño de un instrumento de medición  |
+
+</div>
+</div>
+</div>
+
+<br>
+
+<div class="wrap-collabsible">
+<input id="collapsible3" class="toggle" type="checkbox"><label for="collapsible3" class="lbl-toggle">
+Unidad 3: Implementación y reporte
+</label>
+<div class="collapsible-content">
+<div class="content-inner">
+<div style="width:180%">
+
+| | | | | |
+|----- | -- |-----------------|-------------------------- |-------------|
+|        |    | <i class="fas fa-chalkboard-teacher"></i> | <i class="fas fa-book-reader"></i>| <i class="fas fa-paperclip"></i> |
+| Noviembre | 7  | [Inverstigación por encuestas sociales]() | [Corbetta cap 5 La encuesta por muestreo]() | |
+|   |   |   | [Clark-Carter et al Cap 5: Entrevistas y encuestas]() |   |
+|           | 14 | [Reporte y comunicación de resultados I]() | [Clark-Carter et al Cap 6: Medición de actitudes y significados]()  | |
+|           | 21 | [Reporte y comunicación de resultados  II]()  | [Clark-Carter et al Cap 23: Cómo presentar la investigación]()  | Evaluación 4 Reporte pares  |
+|            | 28 |  |  | Evaluación 5: Informe final instrumento (30%) |
+
+</div>
+</div>
+</div>
+
+</div>
