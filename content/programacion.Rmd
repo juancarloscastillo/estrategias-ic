@@ -10,7 +10,7 @@ slug: programacion
 <i class="fas fa-book-reader"></i> Lecturas
 
 <i class="fas fa-user-edit"></i> Evaluaciones, talleres y otros
-
+ 
 <br>
 
 <div class="wrap-collabsible">

@@ -6,6 +6,3 @@ output:
     template: ../pandoc/toc-title_html.template
     toc: true
 ---
-
-
-# (en desarrollo)
