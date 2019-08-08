@@ -121,6 +121,12 @@ class: roja, middle, center
 .center[![:scale ](images/idea.png)]
 
 ---
+# Lo primero: la IDEA
+
+.center[![:scale ](images/miguelangel.png)]
+
+
+---
 # Problema de investigación
 
 .center[![:scale 70%](images/problem.jpeg)]
@@ -166,11 +172,13 @@ class: inverse, right
 
 # Resumen
 
-- Investigación cuantitativa: características, medición e implementación.
+<br>
 
-- Flujo secuencial establecido
+## Investigación cuantitativa: características, medición e implementación.
 
-- Problema de investigación
+## Flujo secuencial establecido
+
+## Problema de investigación
 
 ---
 
@@ -187,5 +195,3 @@ class: inverse, right
 ## Prof. Juan Carlos Castillo
 
 ## **Sesión 1**: Introducción
-
----

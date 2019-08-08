@@ -71,3 +71,5 @@ params:
   meta:
     twitterSite: "@juankcastillo"
     twitterCreator: "@juankcastillo"
+  talkyardServerUrl: "https://comments-for-estrategias-ic-netlify-com.talkyard.net"
+  talkyardScriptUrl: "https://c1.ty-cdn.net/-/talkyard-comments.min.js"

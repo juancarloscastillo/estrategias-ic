@@ -10,7 +10,8 @@ slug: programacion
 <i class="fas fa-book-reader"></i> Lecturas
 
 <i class="fas fa-user-edit"></i> Evaluaciones, talleres y otros
- 
+
+
 <br>
 
 <div class="wrap-collabsible">
@@ -23,9 +24,11 @@ Unidad 1: Características de la investigación cuantitativa
 
 | | | <i class="fas fa-chalkboard-teacher"></i> |<i class="fas fa-book-reader"></i> | <i class="fas fa-user-edit"></i> |
 |----- | -- |-----------------|-------------------------- |-------------|
-| Agosto | 8  | [**Introducción**](../docpres/01_intro/01_intro.html)   | [Hernández et al. Cap 3: Planteamiento cuantitativo del problema](../readings/cap3Hernandezetal2014.pdf)  | |
-|        | 22 | [Formulación de una investigación cuantitativa I]()     |    [Hernández et al. Cap 5: Definición del alcance de la inv.](../readings/cap5Hernandezetal2014.pdf)  | |
-|        | 29 | [Formulación de una investigación cuantitativa II]()    |    [Hernández et al. Cap 7: Planteamiento cuantitativo del problema](../readings/cap7Hernandezetal2014.pdf)  | Taller: Zotero |
+| Agosto | 8  | [**Introducción**](../docpres/01_intro/01_intro.html)   | [- Hernández et al. Cap 3: Planteamiento cuantitativo del problema](../readings/cap3Hernandezetal2014.pdf)  | |
+|        | 22 | [Formulación de una investigación ]()     |    [- Hernández et al. Cap 5: Definición del alcance de la inv.](../readings/cap5Hernandezetal2014.pdf)  | |
+|   |   | cuantitativa I  | [- Gayo et al 2019 Elección escolar](../readings/gayo_etal2019eleccionescolar.pdf)  |   |
+|        | 29 | [Formulación de una investigación cuantitativa II]()    |    [- Hernández et al. Cap 7: Planteamiento cuantitativo del problema](../readings/cap7Hernandezetal2014.pdf)  | Taller: Zotero |
+|   |   |   | [- Espinoza & Nuñez 2014 movilidad ocupacional en Chile](../readings/Espinoza&Nunez2014movilidadchile.pdf)  |   |
 | Septiembre  | 5  |   |   | Evaluación 1: Prueba unidad 1 (20%)   |
 
 </div>

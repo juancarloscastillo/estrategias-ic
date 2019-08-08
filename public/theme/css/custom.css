@@ -1,6 +1,9 @@
 
 /*fancy collapsible https://alligator.io/css/collapsible/ */
 
+
+
+
 .wrap-collabsible {
   margin-bottom: 1.2rem 0;
   max-width:800px;
@@ -15,7 +18,7 @@
 
 
 div.wrap-collabsible a:link {
-  color: #93d9e2;
+  color: #ec264e;
 }
 
 input[type='checkbox'] {
@@ -73,7 +76,7 @@ input[type='checkbox'] {
 }
 
 .collapsible-content .content-inner {
-  background: #e1ebed;
+  background: #E1EBED;
   color: #241a92;
   border-bottom: 1px solid rgba(250, 224, 66, .45);
   border-bottom-left-radius: 7px;
@@ -81,9 +84,6 @@ input[type='checkbox'] {
   padding: 1rem 3rem;
 }
 
-.collapsible-content .content-inner:visited  {
-  color: #099813;
-}
 
 # Frome here on the original from healey
 
