@@ -6,3 +6,14 @@ author: "Juan Carlos Castillo"
 <figure>
 [![](/images/portada.png)](/images/portada.png)^[{-} `r blogdown::shortcode("courseinfo")`]
 </figure>
+
+<b> AYUDANTES </b>
+
+- Javiera	Abreu
+- Isidora	Didier
+- Anaís Herrera
+- Victor	Jiménez
+- Vanessa	Leyton
+- Cristóbal	Ortiz
+- Fabian	Palma
+- Martín	Venegas
