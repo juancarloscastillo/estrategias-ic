@@ -16,4 +16,5 @@ author: "Juan Carlos Castillo"
 - Vanessa	Leyton
 - Cristóbal	Ortiz
 - Fabian	Palma
+- Valentina Vásquez
 - Martín	Venegas
