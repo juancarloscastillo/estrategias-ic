@@ -1,0 +1,129 @@
+---
+title: "Evaluaciones"
+output:
+    html_document:
+        toc: TRUE
+        toc_float: TRUE
+---
+
+El principal producto de este curso es el desarrollo de una investigación que contempla el planteamiento de un problema, diseño de un instrumento de medición, el levantamiento de datos y el análisis de resultados. Para ello se conformarán grupos de trabajo de máximo 4 integrantes quienes entregarán informes asociados a esta investigación.
+
+Las entregas se realizarán los días viernes (con excepción del informe 2 que se entrega día miércoles) de la semana correspondiente.
+
+Los informes son los siguientes:
+
+- [Informe 1: Análisis crítico de artículo de investigación (20%) - Viernes 11 de Octubre](#inf1)
+- [Informe 2: Diseño de Instrumento de Medición (30%) - Miércoles 30 de Octubre](#inf2)
+- [Informe 3: Evaluación de pares (10%) - Viernes 15 Noviembre](#inf3)
+- [Informe 4: Reporte final de investigación (40%).  Viernes 29 Noviembre](#inf4)
+- [Informe de autoevaluación](#inf5)
+- [Aspectos formales y de entrega](#asp)
+
+# Informe 1: Análisis crítico de artículo de investigación (20%) - Viernes 11 de Octubre {#inf1}
+
+Esta evaluación se relaciona principalmente con la **Unidad 1** del curso (Características de una Investigación Cuantitativa). La idea es que antes de desarrollar una investigación propia, se analice críticamente un reporte de investigación ya publicado. Para esto, cada grupo deberá escoger un artículo de investigación que utilice métodos cuantitativos (y cuya temática idealmente se relacione con el problema de investigación que cada grupo abordará posteriormente). En base a este artículo seleccionado se escribe un informe de análisis, considerando los distintos contenidos de la Unidad 1:
+
+1. Planteamiento del problema y pregunta de investigación
+2. Antecedentes conceptuales y empíricos
+3. Objetivos e Hipótesis
+4. Metodología
+    - Datos: diseño y alcance de la investigación, aspectos éticos
+    - Variables: operacionalización
+    - Métodos: cómo se analizarán los datos
+- Bibliografía
+
+En cada punto se debe en primer lugar identificar las citas del artículo correspondientes (es decir, citar cada parte del artículo que se refiere a cada punto), y luego señalar qué aspectos no estarían presentes o no se encuentran bien abordados.
+
+El trabajo debe tener tres secciones (con número de palabras de referencia):
+
+1. Introducción: identificar el artículo con el que se trabajará y señalar las razones de su elección (200p)
+2. Análisis crítico (según los puntos mencionados anteriormente) (1500p)
+3. Conclusión general (500p).
+
+Para la búsqueda del artículo se sugiere identificar palabras claves del problema de investigación de interés (ej: _identificación partidaria_ y _participación política_) y buscar referencias en motores de búsqueda como:
+
+- [Web of knowledge](http://apps.webofknowledge.com)
+- [Scielo](https://www.scielo.org)
+- [Google Scholar](https://scholar.google.cl/)
+- [Researchgate](https://www.researchgate.net/)
+
+# Informe 2: Diseño de Instrumento de Medición (30%) - Miércoles 30 de Octubre {#inf2}
+
+Las secciones de este informe son las siguientes:
+
+1. Planteamiento del problema y pregunta de investigación (300p).
+2. Antecedentes (conceptuales y empíricos) (500p). En esta sección considerar al menos 5 referencias de investigaciones atingentes.
+3. Objetivos e hipótesis (200p)
+4. Metodología (1500p)
+    - Datos: diseño y alcance de la investigación, aspectos éticos
+    - Variables: operacionalización
+    - Métodos: cómo se analizarán los datos
+- Bibliografía
+
+Los cuestionarios finales a aplicar serán diseñados en formato encuestas web (en este caso, google forms), por lo que se debe entregar el link al cuestionario diseñado.
+
+
+# Informe 3: Evaluación de pares (10%) - Viernes 15 Noviembre {#inf3}
+
+A cada grupo se le asignará un trabajo de otro grupo, del cual se presentará un informe de evaluación. Los aspectos a considerar son los mismos del informe 1. Es decir, este es un informe que analiza el trabajo de compañer_s con los mismos criterios que anteriormente se analizó críticamente un artículo de investigación ya publicado.
+
+# Informe 4: Reporte final de investigación (40%).  Viernes 29 Noviembre {#inf4}
+
+Basado en el informe 2, pero donde se agrega una sección de resultados (4) y conclusiones (5).
+
+
+Este reporte se realizará utilizando los datos levantados mediante una encuesta web. El campo de esta encuesta se realizará las dos primeras semanas de noviembre, los datos serán puestos a disposición de los estudiantes en viernes 15 de Noviembre.
+
+En análisis se basará en los contenidos los cursos Estadística Descriptiva y Correlacional.
+
+
+# Autoevaluación{#inf5}
+
+Se debe entregar al final del curso un reporte de autoevaluación. Para ello responda en una escala de 1 a 7 y fundamente:
+
+a) Sobre participación e involucramiento con el curso:
+
+    -   Lecturas clase a clase
+
+    -   Tiempo de dedicación acorde a los requerimientos del curso
+
+    -   Participación activa en clases
+
+    -   Colaboración con compañeros
+
+    -   Entrega oportuna de informes
+
+    -   Calidad de mis informes
+
+    -   En general, evalúo mi calidad como alumno de este curso con una nota (justificar):
+
+b) Sobre cumplimiento de objetivos: luego del curso, me considero capaz de:
+
+    1. Reconocer, comprender y explicar las potencialidades y limitaciones de la investigación social cuantitativa.
+
+    2. Operacionalizar conceptos simples y complejos, definiendo y delimitando dimensiones, subdimensiones e indicadores observables para la medición de variables en ciencias sociales.
+
+    3. Seleccionar, evaluar, y construir instrumentos de medición cuantitativa (cuestionarios, índices y escalas) posibles de utilizar en investigación por encuestas.
+
+    4. Comunicar de manera eficiente y abierta la estrategia de investigación como así sus resultados en diferentes instancias (artículos y presentaciones), y para audiencias tanto académicas y como no académicas.
+
+
+c) Considerando todo lo anterior, ¿qué nota final consideraría justa para mí en este curso?
+
+# Aspectos generales de formato y entregas {#asp}
+
+
+## Formato
+
+Formato tamaño carta, letra times new roman o LM Roman 12, espaciado 1,5, margenes de 2 cm, número de página. También puede ser en formato html/(R)Markdown.
+
+Si se trabaja en documentos tipo Word, la entrega debe ser en el documento convertido a pdf.
+
+El nombre del archivo debe ser: **GrupoX_informeX.pdf**. Por ejemplo, _Grupo4informe2_.
+
+Para el informe 4 se debe adjuntar el código de análisis.
+
+
+## Normas generales de entregas
+
+Hasta las 17:00 del dı́a indicado, via Ucursos en buzón de tares, - 0.5 por dı́a de atraso, hasta 3 dı́as. En caso de atraso por enfermedad, avisar y presentar certificado médico a secretarı́a de carrera. En el marco de ciencia abierta que promueve el curso, los documentos del trabajo y código serán puestos a disposición de todos los participantes.

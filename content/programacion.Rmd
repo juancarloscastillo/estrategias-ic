@@ -5,7 +5,7 @@ slug: programacion
 
 <embed src="../programa/cuanti2019prog_sesiones2.pdf" type="application/pdf" width="90%" height="600px" />
 
-[(programación original)](../programa/cuanti2019prog_sesiones2.pdf)
+[(programación original)](../programa/cuanti2019prog_sesiones.pdf)
 
 <div style="width:130%">
 
@@ -52,13 +52,16 @@ Unidad 2: Medición y operacionalización
 
 | | | <i class="fas fa-chalkboard-teacher"></i> |<i class="fas fa-book-reader"></i> | <i class="fas fa-user-edit"></i> |
 |----- | -- |-----------------|-------------------------- |-------------|
-| Octubre | 3  | [Operacionalización, confiablidad y validez]() | [Babbie cap 6 Operacionalización]() |  Evaluación 1: Prueba unidad 1 (20%) |
-|   |     |    | [Latiesa Validez y confiabilidad]() |   |
-|   | 10  | [Diseño de cuestionarios y preguntas ]() | [Clark-Carter et al Cap 6: Medición de actitudes y significados]()  | Taller: Diseño de cuestionarios en formato web |
-|   | 17  |   | [Asún, R. (2006). Construcción de cuestionarios y escalas]()  | Panel con invitad_s  |
-|   |     |   | [Corbetta cap 6 la técnica de las escalas]()  | Evaluación 2: Informe análisis de artículo de investigación (10%)  |
-|   | 24  | [Construcción de indicadores ]()  | [Babbie cap 7 Indices y escalas]()  | Taller: Zotero  |
-|   | 31  |   |  | Evaluación 3 (30%): Diseño de un instrumento de medición  |
+| Octubre | 3  | [Operacionalización, confiablidad y validez]() | [Blanco 2011 Cap 1](../readings/BlancoCap1.pdf) | Panel con invitad_s   |
+|   |   |   | [Babbie cap 6 Operacionalización](../readings/BabbieCap6.pdf)  |   |
+|   |   |   | [Latiesa Validez y confiabilidad](../readings/Latiesa2010ValidezConfiabilidad.pdf) |   |
+|   |   |   | [Hernández cap 9 Recolección de datos](../readings/cap9Hernandezetal2014.pdf)  |   |
+|   |     |    |   |   |
+|   | 10  | [Diseño de cuestionarios y preguntas ]() | [Clark-Carter et al Cap 6: Medición de actitudes y significados]()  | Informe 1 (20%) |
+|   | 17  |   | [Asún, R. (2006). Construcción de cuestionarios y escalas]()  |Taller: Diseño de cuestionarios en formato web |
+|   |     |   | [Corbetta cap 6 la técnica de las escalas]()  |  |
+|   | 24  | [Construcción de indicadores ]()  | [Babbie cap 7 Indices y escalas]()  |   |
+|   | 31  |   |  | Informe 2 (30%): Diseño de un instrumento de medición  |
 
 </div>
 </div>
@@ -78,9 +81,9 @@ Unidad 3: Implementación y reporte
 |----- | -- |-----------------|-------------------------- |-------------|
 | Noviembre | 7  | [Inverstigación por encuestas sociales]() | [Corbetta cap 5 La encuesta por muestreo]() | |
 |   |   |   | [Clark-Carter et al Cap 5: Entrevistas y encuestas]() |   |
-|           | 14 | [Reporte y comunicación de resultados I]() | [Clark-Carter et al Cap 6: Medición de actitudes y significados]()  | |
-|           | 21 | [Reporte y comunicación de resultados  II]()  | [Clark-Carter et al Cap 23: Cómo presentar la investigación]()  | Evaluación 4 Reporte pares (10%) |
-|            | 28 |  |  | Evaluación 5: Informe final instrumento (30%) |
+|           | 14 | [Reporte y comunicación de resultados I]() | [Clark-Carter et al Cap 6: Medición de actitudes y significados]()  | Informe 3 Evaluación pares (10%) |
+|           | 21 | [Reporte y comunicación de resultados  II]()  | [Clark-Carter et al Cap 23: Cómo presentar la investigación]()  |  |
+|            | 28 |  |  | Informe 4: Informe final instrumento (40%) |
 
 </div>
 </div>

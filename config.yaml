@@ -20,7 +20,7 @@ menu:
       url: /syllabus/
       weight: 1
     - name: Evaluaciones
-      url: /assignments/
+      url: /evaluaciones/
       weight: 3
     - name: Sesiones
       url: /programacion/
