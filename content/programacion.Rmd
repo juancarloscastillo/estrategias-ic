@@ -57,11 +57,11 @@ Unidad 2: Medición y operacionalización
 |   |   |   | [Latiesa Validez y confiabilidad](../readings/Latiesa2010ValidezConfiabilidad.pdf) |   |
 |   |   |   | [Hernández cap 9 Recolección de datos](../readings/cap9Hernandezetal2014.pdf)  |   |
 |   |     |    |   |   |
-|   | 10  | [Diseño de cuestionarios y preguntas ]() | [Clark-Carter et al Cap 6: Medición de actitudes y significados]()  | Informe 1 (20%) |
+|   | 10  | [Diseño de cuestionarios y preguntas ]() | [Clark-Carter et al Cap 6: Medición de actitudes y significados]()  | [Informe 1 Análisis artículo (20%)](../evaluaciones#inf1) |
 |   | 17  |   | [Asún, R. (2006). Construcción de cuestionarios y escalas]()  |Taller: Diseño de cuestionarios en formato web |
 |   |     |   | [Corbetta cap 6 la técnica de las escalas]()  |  |
 |   | 24  | [Construcción de indicadores ]()  | [Babbie cap 7 Indices y escalas]()  |   |
-|   | 31  |   |  | Informe 2 (30%): Diseño de un instrumento de medición  |
+|   | 31  |   |  | [Informe 2 Diseño (30%)](../evaluaciones#inf2)  |
 
 </div>
 </div>
@@ -81,9 +81,10 @@ Unidad 3: Implementación y reporte
 |----- | -- |-----------------|-------------------------- |-------------|
 | Noviembre | 7  | [Inverstigación por encuestas sociales]() | [Corbetta cap 5 La encuesta por muestreo]() | |
 |   |   |   | [Clark-Carter et al Cap 5: Entrevistas y encuestas]() |   |
-|           | 14 | [Reporte y comunicación de resultados I]() | [Clark-Carter et al Cap 6: Medición de actitudes y significados]()  | Informe 3 Evaluación pares (10%) |
+|           | 14 | [Reporte y comunicación de resultados I]() | [Clark-Carter et al Cap 6: Medición de actitudes y significados]()  | [Informe 3 Pares 10%](../evaluaciones#inf3) |
 |           | 21 | [Reporte y comunicación de resultados  II]()  | [Clark-Carter et al Cap 23: Cómo presentar la investigación]()  |  |
-|            | 28 |  |  | Informe 4: Informe final instrumento (40%) |
+|            | 28 |  |  | [Informe 4: Final (40%)](../evaluaciones#inf4) |
+|   |   |   |   | [Entrega Autoevaluación](../evaluaciones#inf5)  |
 
 </div>
 </div>
