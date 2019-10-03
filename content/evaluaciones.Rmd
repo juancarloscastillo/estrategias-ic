@@ -121,6 +121,8 @@ Si se trabaja en documentos tipo Word, la entrega debe ser en el documento conve
 
 El nombre del archivo debe ser: **GrupoX_informeX.pdf**. Por ejemplo, _Grupo4informe2_.
 
+En la página final del trabajo se debe declarar que todos los integrantes del grupo trabajaron de manera equitativa; de no ser así, detallar dificultades y contribuciones específicas de cada integrante..
+
 Para el informe 4 se debe adjuntar el código de análisis.
 
 

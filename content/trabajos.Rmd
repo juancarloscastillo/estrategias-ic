@@ -1,0 +1,10 @@
+---
+title: "Trabajos"
+slug: Trabajos
+---
+
+
+# Grupos de trabajo (actualizado 3 Oct. 2019)
+
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRZrZ6_lXX7o5p-zRjES6eJBd-9pdAUW5XxZQKKjTuMhmmrkk481DJYS4mgoTdZOHJhW-QvRTTdYp-I/pubhtml?widget=true&amp;headers=false" width="1000" height="1000"></iframe>

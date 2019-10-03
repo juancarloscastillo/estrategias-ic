@@ -1,0 +1,357 @@
+---
+title: "Estrategias de investigación cuantitativa"
+subtitle: " "
+author: ".small[Juan Carlos Castillo<br><br> Departamento de Sociología - UCH / COES <br><br>]"
+date: " "
+output:
+  xaringan::moon_reader:
+    css: ["https://estrategias-ic.netlify.com/docpres/01_intro/xaringan_custom/xaringan-themer.css","https://estrategias-ic.netlify.com/docpres/01_intro/xaringan_custom/progress-bar.css","https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"]
+    lib_dir: libs
+    nature:
+      slideNumberFormat:   |
+        <div class="progress-bar-container">
+          <div class="progress-bar" style="width: calc(%current% / %total% * 100%);">
+          </div>
+        </div>`
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      beforeInit: "https://estrategias-ic.netlify.com/docpres/01_intro/xaringan_custom/macros.js"
+    seal: false # esto omite title slide automática
+---
+class: bottom, right
+
+```{r setup, include=FALSE, cache = FALSE}
+require("knitr")
+options(htmltools.dir.version = FALSE)
+pacman::p_load(RefManageR)
+# bib <- ReadBib("meritocracy.bib", check = FALSE)
+```
+
+```{r eval=FALSE, echo=FALSE}
+# Correr esta linea para ejecutar
+rmarkdown::render('static/docpres/03_operac/03operac.Rmd', 'xaringan::moon_reader')
+```
+
+
+<!---
+About macros.js: permite escalar las imágenes como [:scale 50%](path to image), hay si que grabar ese archivo js en el directorio.
+--->
+
+.right[![:scale 30%](https://escudouchile.files.wordpress.com/2012/06/logotipo-facso-ciencias-sociales-u-de-chile.png)]
+
+<br>
+<br>
+<br>
+
+
+# Estrategias de investigación cuantitativa
+## Carrera de Sociología, 2 sem. 2019
+
+## Prof. Juan Carlos Castillo
+
+## **Tema 3**: Operacionalización
+
+
+---
+# **ESTE CURSO**
+
+<br>
+## - Caracterización investigación cuantitativa (Unidad 1)
+  - Problema, hipótesis, diseño, ética
+
+## - Medición y operacionalización (Unidad 2)
+
+## - Implementación (Unidad 3)
+
+<br>
+
+### **web: estrategias-ic.netlify.com**
+
+---
+class: roja, middle, center, slideInRight
+
+#  RESUMEN
+
+---
+# Flujo investigación cuantitativa
+
+<br>
+<br>
+
+![](images/flujo.png)
+
+---
+# Problema de investigación
+
+<br>
+## - Relación entre 2 o más conceptos
+
+## - Contrastable empíricamente
+
+## - Relevante
+
+## - Viable
+
+## - Se resume en una pregunta de investigación
+
+---
+# Sobre la relevancia del problema
+
+.left-column[
+## Hombros de gigante
+]
+
+.right-column[
+.right[
+![:scale 80%](images/standing.png)
+]
+]
+---
+# Sobre la relevancia del problema
+
+.left-column[
+## Hombros de gigantes
+## Brecha
+]
+
+.right-column[
+.right[
+![:scale 80%](images/gap.png)
+]
+]
+
+---
+# Sobre la relevancia del problema
+
+.left-column[
+## Hombros de gigantes
+## Brecha
+## Ell_s dicen, yo digo
+]
+
+.right-column[
+.right[
+![:scale 90%](images/theysayIsay.jpg)
+]
+]
+
+---
+# Alcances de la investigación
+
+![](images/alcances.png)
+
+---
+# Hipótesis: características
+
+- Afirmación sobre **resultados (generales)** del estudio:
+
+  - Más del 50% de los hombres fuman durante la adolescencia en Santiago (descriptiva)
+  - A mayor nivel socioeconómico, mayor participación política (correlacional)
+  - La participación en preuniversitarios mejora el puntaje PSU (explicativa)
+
+--
+
+- Basadas en **antecedentes** conceptuales presentados previamente
+
+--
+
+- **Contrastables** empíricamente
+
+--
+
+- **Breves**, no contener argumentos (los argumentos son previos)
+
+--
+
+- **Útiles**: permiten definir hacia donde apuntan los análisis
+
+
+---
+# Diseños de investigación: Experimentales
+
+<br>
+
+.medium[
+
+|                                        | Experimentos | Cuasi-experimentos | Pre-experimentos |
+|----------------------------------------|--------------|--------------------|------------------|
+| Manipulación de variable independiente |       *      |                    |                  |
+| Grupo de comparación                   |       *      |          *         |                  |
+| Medición de variable dependiente       |       *      |          *         |         *        |
+
+]
+
+---
+# Diseños de investigación: Observacionales
+
+<br>
+
+![](images/observacionales.png)
+
+
+---
+class: inverse
+
+# Esta sesión:
+
+## Comenzamos unidad 2: Medición y operacionalización
+
+- ### Variables yniveles de medición
+
+- ### Operacionalización
+
+- ### Confiabilidad y validez
+
+
+---
+class: roja, middle, center
+
+
+# 1. Variables y niveles de medición
+
+---
+# Medir
+
+.pull-left[
+-   “asignar números, símbolos o valores a las propiedades de objetos o eventos de acuerdo con reglas” (Stevens, 1951)
+
+- Vincula conceptos abstractos con indicadores empíricos
+]
+
+.pull-right[
+![:scale 100%](images/numeros.png)
+]
+---
+# Medir: requisitos básicos
+
+<br>
+
+- **Exhaustividad**: el mayor número de categorías significativas.
+  - Ej: ¿Qué categorías se deben considerar para población migrante?
+
+- **Exclusividad**: atributos mutuamente excluyentes
+
+
+---
+
+# Variable: atributo que varía en las unidades de análisis
+
+## --> posee VARIANZA (en variables cuantitativas)
+
+.pull-left[
+![:scale 100%](images/varia.png)
+]
+
+.pull-right[
+
+$$\begin{split}
+\sigma^2&=\frac{\sum_{i=1}^{n}(x_i - \bar{x})(x_i - \bar{x})} {n-1} \\
+&=\frac{\sum_{i=1}^{n}(x_i - \bar{x})^2} {n-1}
+\end{split}$$
+
+]
+
+---
+# Niveles de medición de las variables
+
+![](images/noir1.png)
+
+---
+# Niveles de medición de las variables
+
+.center[
+![:scale 80%](images/noir2.jpg)
+]
+---
+# Niveles de medición de las variables
+
+.center[
+![:scale 80%](images/noir3.jpg)
+]
+
+
+---
+class: roja, middle, center
+
+# 2. Operacionalización
+
+
+---
+# Operacionalización
+
+.center[![:scale ](images/operac1.png)]
+
+
+---
+# Operacionalización
+
+.center[![:scale ](images/operac2.jpg)]
+
+
+---
+class: inverse, middle
+
+# Actividad Práctica: Operacionalización
+
+
+## Identificar conceptos centrales del problema de investigación a abordar
+
+## Operacionalizar los conceptos en dimensiones e indicadores
+
+
+
+---
+class: roja, middle, center
+
+# Confiabilidad y validez
+
+---
+# Confiabilidad y Validez
+
+.center[![:scale ](images/confival.png)]
+
+--
+## ¿Cómo asegurar la confiabilidad y validez de mi instrumento de medición?
+
+--
+
+
+## --> próxima sesión
+
+---
+class:inverse
+
+# RESUMEN
+
+
+### - MEDIR:
+  - asignar números a características / atributos según reglas
+
+--
+
+### - Variables:
+  - característica que tiene diferentes valores de medición en las uniades de análisis
+
+--
+
+### - Niveles de medicion: NOIR (Nominal, Ordinal, Intervalar, Razón)
+
+--
+
+### - Operacionalización:
+  - de los conceptos a su medición
+
+
+---
+.right[![:scale 30%](https://escudouchile.files.wordpress.com/2012/06/logotipo-facso-ciencias-sociales-u-de-chile.png)]
+
+<br>
+<br>
+<br>
+
+
+# Estrategias de investigación cuantitativa
+## Carrera de Sociología, 2 sem. 2019
+
+## Prof. Juan Carlos Castillo

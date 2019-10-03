@@ -27,7 +27,11 @@ menu:
       weight: 2
     - name: Links
       url: /links/
+      weight: 5
+    - name: Trabajos
+      url: /trabajos/
       weight: 4
+
 # Disable taxonomies
 taxonomies:
   tag: ""

@@ -52,7 +52,7 @@ Unidad 2: Medición y operacionalización
 
 | | | <i class="fas fa-chalkboard-teacher"></i> |<i class="fas fa-book-reader"></i> | <i class="fas fa-user-edit"></i> |
 |----- | -- |-----------------|-------------------------- |-------------|
-| Octubre | 3  | [Operacionalización, confiablidad y validez]() | [Blanco 2011 Cap 1](../readings/BlancoCap1.pdf) | Panel con invitad_s   |
+| Octubre | 3  | [Operacionalización, confiablidad y validez](../docpres/03_operac/03operac.html) | [Blanco 2011 Cap 1](../readings/BlancoCap1.pdf) | Panel con invitad_s   |
 |   |   |   | [Babbie cap 6 Operacionalización](../readings/BabbieCap6.pdf)  |   |
 |   |   |   | [Latiesa Validez y confiabilidad](../readings/Latiesa2010ValidezConfiabilidad.pdf) |   |
 |   |   |   | [Hernández cap 9 Recolección de datos](../readings/cap9Hernandezetal2014.pdf)  |   |
