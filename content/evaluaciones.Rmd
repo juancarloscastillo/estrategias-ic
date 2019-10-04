@@ -128,4 +128,4 @@ Para el informe 4 se debe adjuntar el código de análisis.
 
 ## Normas generales de entregas
 
-Hasta las 17:00 del dı́a indicado, via Ucursos en buzón de tares, - 0.5 por dı́a de atraso, hasta 3 dı́as. En caso de atraso por enfermedad, avisar y presentar certificado médico a secretarı́a de carrera. En el marco de ciencia abierta que promueve el curso, los documentos del trabajo y código serán puestos a disposición de todos los participantes.
+Hasta las 23:59 del dı́a indicado, via Ucursos en buzón de tares, - 0.5 por dı́a de atraso, hasta 3 dı́as. En caso de atraso por enfermedad, avisar y presentar certificado médico a secretarı́a de carrera. En el marco de ciencia abierta que promueve el curso, los documentos del trabajo y código serán puestos a disposición de todos los participantes.
