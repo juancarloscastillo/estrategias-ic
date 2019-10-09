@@ -1,6 +1,8 @@
 ---
-title: "Trabajos"
-slug: Trabajos
+title: "Trabajos y Prácticas"
+output:
+  blogdown::html_page:
+    toc: true
 ---
 
 
@@ -8,3 +10,28 @@ slug: Trabajos
 
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRZrZ6_lXX7o5p-zRjES6eJBd-9pdAUW5XxZQKKjTuMhmmrkk481DJYS4mgoTdZOHJhW-QvRTTdYp-I/pubhtml?widget=true&amp;headers=false" width="1000" height="1000"></iframe>
+
+
+# Prácticas del trabajo de investigación
+
+## Práctica 1: Operacionalización e indicadores {#prac1}
+
+Esta práctica tiene como antecedente la adecuada definición de un problema de investigación. Para la viabilidad de la investigación es importante tener en cuenta que este problema será abordado mediante metodología de encuestas a población general.
+
+En base al problema de investigación planteado por el grupo, realizar el proceso de operacionalización de las variables basado en la siguiente tabla de ejemplo:
+
+
+| VARIABLE 	| Definición conceptual (constructo) 	| Definición real (dimensiones) 	| Definición operacional (indicadores) 	|
+|-------------	|------------------------------------	|-------------------------------	|--------------------------------------	|
+| (Variable_1)         	|                                    	|	|                                      	|
+| (Variable_2)         	|                                    	|	|                                      	|
+| (Variable_N)         	|                                    	|                               	|                                      	|
+|          	|                                    	|                               	|                                      	|
+
+
+
+## Práctica 2: Diseño de preguntas {#prac2}
+
+
+
+## Práctica 3: Diseño de cuestionario {#prac3}
