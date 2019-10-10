@@ -57,7 +57,7 @@ Unidad 2: Medición y operacionalización
 |   |   |   | [Latiesa Validez y confiabilidad](../readings/Latiesa2010ValidezConfiabilidad.pdf) |   |
 |   |   |   | [Hernández cap 9 Recolección de datos](../readings/cap9Hernandezetal2014.pdf)  |   |
 |   |     |    |   |   |
-|   | 10  | [Indicadores, confiablidad y validez ]() | [Clark-Carter et al Cap 6: Medición de actitudes y significados]()  | [Entrega informe 1 Análisis artículo (20%)](../evaluaciones#inf1) |
+|   | 10  | [Operacionalización 2, confiablidad y validez ](../docpres/04_confvali/04confvali.html) | [Clark-Carter et al Cap 6: Medición de actitudes y significados]()  | [Entrega informe 1 Análisis artículo (20%)](../evaluaciones#inf1) |
 |   |   |   |   | [Práctica 1: Operacionalización](../trabajos#prac1)  |
 |   | 17  | [Preguntas y baterías de ítems]()  | [Asún, R. (2006). Construcción de cuestionarios y escalas]()  |[Práctica 2: Diseño de preguntas](../trabajos#prac2)|
 |   |     |   | [Corbetta cap 6 la técnica de las escalas]()  |  |
