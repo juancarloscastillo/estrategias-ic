@@ -29,9 +29,17 @@ En base al problema de investigación planteado por el grupo, realizar el proces
 |          	|                                    	|                               	|                                      	|
 
 
+<br>
+<br>
 
 ## Práctica 2: Diseño de preguntas {#prac2}
 
+- Establecer las posibles **categorías de respuesta** para cada indicador de la matriz de operacionalización
 
+- Redactar preguntas para cada categoría de respuesta, según los contenidos y alternativas revisadas en la sesión respectiva
+
+
+<br>
+<br>
 
 ## Práctica 3: Diseño de cuestionario {#prac3}
