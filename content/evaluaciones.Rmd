@@ -49,6 +49,15 @@ Para la búsqueda del artículo se sugiere identificar palabras claves del probl
 
 # Informe 2: Diseño de Instrumento de Medición (30%) - Miércoles 30 de Octubre {#inf2}
 
+- Para el desarrollo del cuestionario deben tener en cuenta que este será administrado a población general mediante una encuesta en formato web.
+
+- Las preguntas generadas por los distintos grupos conformaran un **cuestionario único** que será respondido online.
+
+- Excepcionalmente se puede desarrollar un estudio orientado a grupos específicos (ej: estudiantes) si cumple con las condiciones de viabilidad.
+
+- También si un grupo fundamenta la administración del cuestionario por otra vía será evaluado también en términos de viabilidad.
+
+
 Las secciones de este informe son las siguientes:
 
 1. Planteamiento del problema y pregunta de investigación (300p).
@@ -70,7 +79,6 @@ A cada grupo se le asignará un trabajo de otro grupo, del cual se presentará u
 # Informe 4: Reporte final de investigación (40%).  Viernes 29 Noviembre {#inf4}
 
 Basado en el informe 2, pero donde se agrega una sección de resultados (4) y conclusiones (5).
-
 
 Este reporte se realizará utilizando los datos levantados mediante una encuesta web. El campo de esta encuesta se realizará las dos primeras semanas de noviembre, los datos serán puestos a disposición de los estudiantes en viernes 15 de Noviembre.
 

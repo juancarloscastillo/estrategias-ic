@@ -14,6 +14,15 @@ output:
 
 # Prácticas del trabajo de investigación
 
+- Las prácticas son actividades de trabajo grupal orientadas al desarrollo del trabajo de investigación central del curso, que es el desarrollo y análisis de un instrumento de medición en formato de cuestionario.
+
+- Los grupos recibirán comentarios de ayudantes y profesor si entregan los informes de práctica en la fecha acordada (lunes siguiente a la sesión respectiva)
+
+- Si no se ha cumplido con las fechas de entrega de las prácticas no se asegura la inclusión de las preguntas en el cuestionario final en formato web (ver detalles en sección evaluaciones)
+
+- Sobre entregas: con el siguiente formato de archivo `prac1g10.pdf`, enviado vía Ucursos al profesor con copia al ayudante.
+
+
 ## Práctica 1: Operacionalización e indicadores {#prac1}
 
 Esta práctica tiene como antecedente la adecuada definición de un problema de investigación. Para la viabilidad de la investigación es importante tener en cuenta que este problema será abordado mediante metodología de encuestas a población general.

@@ -60,6 +60,7 @@ Unidad 2: Medición y operacionalización
 |   | 10  | [Operacionalización 2, confiablidad y validez ](../docpres/04_confvali/04confvali.html) | [Clark-Carter et al Cap 5-6: Planteamiento de preguntas](../readings/Clark-Carter_5-6.pdf)  | [Entrega informe 1 Análisis artículo (20%)](../evaluaciones#inf1) |
 |   |   |   |   | [Práctica 1: Operacionalización](../trabajos#prac1)  |
 |   | 17  | [Preguntas y escalas](../docpres/05_preg/05preg.html)  | [Asún, R. (2006). Construcción de cuestionarios y escalas](../readings/Asun2006cuestionariosyescalas.pdf)  |[Práctica 2: Diseño de preguntas](../trabajos#prac2)|
+|   |   |   |   |[Encuesta CEP Mayo 2019](../readings/Manual del Usuario Encuesta CEP 83 v1.pdf)   |
 |   |     |   | [ Frances et al La entrevista estandarizada (2.4)  p.110-152](../readings/Frances_etal2014procesomedicionrealidadsocial.pdf)  |  |
 |   | 24  | [Cuestionarios ]()  | [Frances et al Modos de aplicación del cuestionario (2.5)](../readings/Frances_etal2014procesomedicionrealidadsocial.pdf)  | [Práctica 3: Diseño de cuestionarios en formato web](../trabajos#prac3)   |
 |   | 31  | _FERIADO_  |  | [Informe 2 Diseño (30%)](../evaluaciones#inf2)  |
