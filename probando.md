@@ -33,7 +33,7 @@ sudo mv pandoc-sidenote /usr/local/bin
 
 - To render website
 
-  - Open R in project terminal 
+  - Open R in project terminal
   blogdown::build_site(local = FALSE, method = c("html", "custom"),run_hugo = TRUE)
   - blogdown:::serve_site()
   - automáticamente abre browser con sitio

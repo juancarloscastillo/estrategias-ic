@@ -12,8 +12,8 @@ Las entregas se realizarán los días viernes (con excepción del informe 2 que 
 
 Los informes son los siguientes:
 
-- [Informe 1: Análisis crítico de artículo de investigación (20%) - Viernes 11 de Octubre](#inf1)
-- [Informe 2: Diseño de Instrumento de Medición (30%) - Miércoles 30 de Octubre](#inf2)
+- [Informe 1: Análisis crítico de artículo de investigación (20% -> **30%**) - Viernes 11 de Octubre](#inf1)
+- [Informe 2: Diseño de Instrumento de Medición (30% -> **70%**) - Miércoles 30 de Octubre](#inf2) (**ACTUALIZADO**)
 - [Informe 3: Evaluación de pares (10%) - Viernes 15 Noviembre](#inf3)
 - [Informe 4: Reporte final de investigación (40%).  Viernes 29 Noviembre](#inf4)
 - [Informe de autoevaluación](#inf5)
@@ -49,7 +49,15 @@ Para la búsqueda del artículo se sugiere identificar palabras claves del probl
 
 # Informe 2: Diseño de Instrumento de Medición (30%) - Miércoles 30 de Octubre {#inf2}
 
-- Para el desarrollo del cuestionario deben tener en cuenta que este será administrado a población general mediante una encuesta en formato web.
+
+## ACTUALIZACIÓN (Diciembre 2019)
+
+Dada la contingencia del país, se propone (1) cerrar con esta segunda evaluación y darle el carácter de trabajo final (70%), y (2) dar la posibilidad de reorientar o cambiar las propuestas originales.
+La pauta original se mantiene en términos generales, pero también queda abierta la posiblidad de que trabajos se agrupen en torno a temáticas de carácter colectivo, siempre y cuando quede reconocido el aporte de cada grupo en el trabajo.
+
+---
+
+- Para el desarrollo del cuestionario se debe tener en cuenta que este será administrado a población general mediante una encuesta en formato web.
 
 - Las preguntas generadas por los distintos grupos conformaran un **cuestionario único** que será respondido online.
 
