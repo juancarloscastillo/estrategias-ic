@@ -10,23 +10,28 @@ output:
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRZrZ6_lXX7o5p-zRjES6eJBd-9pdAUW5XxZQKKjTuMhmmrkk481DJYS4mgoTdZOHJhW-QvRTTdYp-I/pubhtml?widget=true&amp;headers=false" width="1000" height="1000"></iframe>
 
-
+ 
 # Temas de trabajo actualizados (Diciembre 2019)
 
 ## Grupo 1
 
-**Catalina Dupuy, Antonia Cornejo, Nathalie Bustamante**
+**Catalina Dupuy, Antonia Cornejo, Nathalie Bustamante **
 
 Definición violencia político sexual:
 Según CIDH, la violencia sexual implica la realización de acciones de naturaleza sexual que se cometen contra una persona sin su consentimiento, que comprenden la invasión física del cuerpo humano y otros actos que incluso no involucran contacto físico alguno. Desde la dictadura cívico- militar, en los años 80 ocurrido en nuestro país, la violencia sexual ha sido manipulada politicamente para el control de personas, principalmente mujeres, que se han encontrado en resistencia a la opresión impuesta por el estado; este mecanismo de violencia es legitimada por parte del gobierno para la mantención del orden impuesto.
 
-Hipótesis: El estallido social que se produjo en octubre de este año ha significado un cuestionamiento de la cualidad * democrática inmersa en nuestro país debido a la utilización de recursos que atentan al pleno desenvolvimiento de los derechos humanos de las personas que viven en Chile. La violencia político sexual es uno de estos recursos, que además de atentar en contra de estos principios que garantizan una democracia, responde a la lógica del poder patriarcal en el que las mujeres son las principales afectadas.
+Hipótesis: El estallido social que se produjo en octubre de este año ha significado un cuestionamiento de la cualidad * democrática inmersa en nuestro país debido a la utilización de recursos que atentan al pleno desenvolvimiento de los derechos humanos de las personas que viven en Chile. La violencia político sexual es uno de estos recursos, que además de atentar en contra de estos principios que garantizan una democracia, responde a la lógica del poder patriarcal en el que las mujeres son las principales afectadas .
+
+- [**Operacionalización**](../operac/g1.pdf)
 
 ## Grupo 2
 
 **Danae Pedraza, Valentina Yañez, Catalina Roa y yo, Emilia Cuadros.**
 
 Nuestro tema de estudio es la percepción de las personas hacia distintos tipos de violencias, y por lo tanto crímenes, ya sea cuando son efectuados por parte del Estado o de la misma población. En este sentido, nuestro objeto de estudio es la población residente en Santiago de Chile, mayores de 18 años, de todos los estratos socioeconómicos y sexos, en el contexto de la contingencia política social actual. Las preguntas estarán orientadas en tres dimensiones principales: (1) validar a priori el crimen y la violencia ejercida, (2) ponerse en la posición de hacer el crimen en sí y (3) experiencia directa de haber participado o sufrido en/de algún crimen. Nuestras hipótesis son (1) el darle más importancia a crímenes de lesa humanidad que a crímenes que atentan contra la propiedad privada y/o pública, depende del estatus social de esa persona; (2) personas de estatus socioeconómico más alto tenderán a realzar la idea de la destrucción pública y/o privada por sobre crímenes de lesa humanidad, legitimando la necesidad de un cierto orden; y (3) personas de estatus socioeconómico más bajo tenderán a participar más de estos crímenes generalmente repudiados por clases más altas y así, siendo más afectados por crímenes de lesa humanidad.
+
+- [**Operacionalización**](../operac/g2.pdf)
+
 
 ## Grupo 3
 
@@ -37,6 +42,8 @@ Como grupo buscamos enfocar nuestra investigación al tema del consumo y el come
 A modo de justificación del estudio, creemos que es pertinente dado el contexto de segregación históricamente perpetuada (económica y su manifestación espacial) y polarización política, lo que configura actores en polos opuestos de opinión sobre todo desde el lugar donde se habla, lo que se manifestaría también en la configuración de los espacios de protesta y que fenómenos son o no legitimados.
 
 Nuestra hipótesis es que encontraremos polos opuestos de opinión respecto a la valoración dada al consumo de alcohol y drogas tomando en cuenta la posición política tomada sobre la movilización social como también si se ha participado o no en ella. A su vez, y por el lado de los niveles de consumo, encontraremos un incremento y/o nuevas significaciones dadas al fenómeno, en su mayoría atribuido al contexto actual y como ha operado en la cotidianidad de lxs actores.
+
+- [**Operacionalización**](../operac/g3.xlsx)
 
 
 ## Grupo 4
@@ -56,12 +63,16 @@ pesimismo.
 pesimismo con el estatus social subjetivo e identificación política.
 Hipótesis: pendiente.
 
+- [**Operacionalización**](../operac/g4.docx)
+
 
 ## Grupo 5
 
 **Valentina Andreani, Bárbara Danús, Agatha Castro y Fabiana Ivankovic.**
 
 Nuestra temática de interés tiene que ver con las percepciones de la gente (según género y edad) sobre la consigna “No + abusos” y si esta consigna la gente la relaciona sólo con aspectos materiales, ya sean salarios, pensiones,etc., o si incluyen dentro de ésta las demandas feministas (relacionadas con violencia, por ejemplo). El objeto de estudio estaría más centrado en el concepto de “abuso” y si la gente incluye las demandas feministas dentro del concepto global, más que en las prioridades que le asigna la gente a las demandas feministas.
+
+- [**Operacionalización**](../operac/g5.doc)
 
 
 ## Grupo 6
@@ -87,6 +98,9 @@ Dicho esto, proponemos también una serie de preguntas piloto que nos permitirí
 **Anakena Pavés, Diego Pérez, Paula Larenas y Paulina Gamboa**
 
 El tema será las actitudes hacia l@s encapuchad@s, debido a que a raíz del estallido social ocurrido en Chile desde el 18 de Octubre, las manifestaciones en este país se hicieron masivas y cotidianas. Junto con esto se han incrementado los manifestantes que utilizan capuchas, lo que ha generado diversas percepciones de la población. Este estallido social, ha sido uno de los más grandes en la historia reciente de Chile, por lo que nos parece relevante comprender y conocer con más profundidad aspectos en relación con la percepción que tienen los habitantes chilenos a l@s encapuchad@s que han sido protagonistas de las movilizaciones. Nuestro objeto de estudio, serán las personas de 14 a 70 años habitantes de la región metropolitana, esto es debido a que l@s adolescentes han sido activos en las movilizaciones, incluso esta comenzó con los escolares evadiendo estaciones de metro, y hasta los 60 años porque queremos conocer también las actitudes de las personas mayores, que creemos son menos cercanas a l@s encapuchad@s. Seleccionamos la región metropolitana porque consideramos complicado acceder con la encuesta a más regiones. Nuestra hipótesis es que las actitudes de la ciudadanía frente a los/las encapuchados/as se muestran más positivas que como lo eran antes del estallido del 18 de Octubre. También tenemos otra idea de hipótesis, pero es algo que tenemos que conversar, esta es que las personas de mayor edad (50 años o más), muestran actitudes más negativas hacia las/los encapuchadas/os que las personas menores a 50 años.
+
+- [**Operacionalización**](../operac/g10.pdf)
+
 
 ## Grupo 11
 
